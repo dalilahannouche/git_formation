@@ -5,4 +5,4 @@ Une démo de GIT qui se passe bien !
 
 Et maintenant, on modifie depuis GITHUB :) Si c'est pas génial ça ! ^^
 
-Mais aussi depuis ma machine local
+Mais aussi depuis ma machine local et c'est cooool !!
